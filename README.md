@@ -1,12 +1,9 @@
 # Hi, I'm JOEL PRADEEP A B 👋
 
-```{=html}
 <p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;DevOps+%26+GenAI+Enthusiast;Building+Scalable+Web+Applications" />`{=html}
-```{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;DevOps+%26+GenAI+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG">
 </p>
-```
+
 ## 🚀 About Me
 
 -   👤 **Name:** Joel Pradeep A B
@@ -35,19 +32,15 @@ Docker • Kubernetes • Jenkins • GitHub Actions • AWS • Linux
 
 ## 📈 GitHub Stats
 
-> Replace **joelpradeep-ab** with your GitHub username.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelpradeep-ab&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=joelpradeep-ab&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=joelpradeep-ab&theme=tokyonight&hide_border=true)
 
-![Streak](https://streak-stats.demolab.com?user=joelpradeep-ab&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelpradeep-ab&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
 
-![Top
-Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelpradeep-ab&layout=compact&theme=tokyonight)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=joelpradeep-ab&theme=tokyo-night&hide_border=true)
 
-![Activity
-Graph](https://github-readme-activity-graph.vercel.app/graph?username=joelpradeep-ab&theme=tokyo-night)
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=joelpradeep-ab&theme=tokyonight&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=joelpradeep-ab&theme=algolia&no-frame=true&no-bg=true&margin-w=10)
 
 ## 📌 Featured Projects
 
@@ -68,8 +61,8 @@ Graph](https://github-readme-activity-graph.vercel.app/graph?username=joelpradee
 
 ## 📫 Connect
 
--   Portfolio: joelpradeep-ab
--   LinkedIn: https://linkedin.com/in/joelpradeep-ab
+-   Portfolio: https://github.com/joelpradeep-ab
+-   LinkedIn: https://linkedin.com/in/joelpradeepab
 
 ------------------------------------------------------------------------
 
