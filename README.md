@@ -1,11 +1,9 @@
-<div align="center>"<h1>Hi there 👋</h1></div>
+<div align="center"><h1>Hi there 👋</h1></div>
 
-<div align="center>"<h2>JOEL PRADEEP A B 👋</h2></div>#
-<!--
-**joelpradeep-ab/joelpradeep-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<div align="center"><h2>JOEL PRADEEP A B 👋</h2></div>#
+
 💫 About Me:
-<div align="center>"<h2>I'm an Aspiring Full Stack Engineer |<br>Java | Spring Boot | Microservices | Building Scalable Web Applications |<br>DevOps & GenAI Enthusiast</h2></div>#
+<div align="center"><h2>I'm an Aspiring Full Stack Engineer |<br>Java | Spring Boot | Microservices | Building Scalable Web Applications |<br>DevOps & GenAI Enthusiast</h2></div>#
  
 
 ## 🌐 Socials:
