@@ -1,4 +1,4 @@
-# Hi, I'm JOEL PRADEEP A B 👋
+<div align="center"><h1>Hi, I'm JOEL PRADEEP A B 👋</h1></div>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=800&lines=Aspiring+Full+Stack+Engineer;Java+%7C+Spring+Boot+%7C+Microservices;DevOps+%26+GenAI+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG">
