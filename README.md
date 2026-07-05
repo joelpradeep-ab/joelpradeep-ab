@@ -1,22 +1,12 @@
-## Hi there 👋
+<div align="center>"<h1>Hi there 👋</h1></div>
 
+<div align="center>"<h2>JOEL PRADEEP A B 👋</h2></div>#
 <!--
 **joelpradeep-ab/joelpradeep-ab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-I'm an Aspiring Full Stack Engineer |<br>Java | Spring Boot | Microservices | Building Scalable Web Applications |<br>DevOps & GenAI Enthusiast
-
+💫 About Me:
+<div align="center>"<h2>I'm an Aspiring Full Stack Engineer |<br>Java | Spring Boot | Microservices | Building Scalable Web Applications |<br>DevOps & GenAI Enthusiast</h2></div>#
+ 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/joelpradeep-ab) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/joelpradeep-ab) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joelpradeep-ab) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@joelpradeep-ab) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/joelpradeep-ab) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/joelpradeep-ab) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/joelpradeep-ab) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/joelpradeep-ab) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/joelpradeep-ab) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@joelpradeep-ab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:https://github.com/joelpradeep-ab) 
@@ -30,7 +20,6 @@ I'm an Aspiring Full Stack Engineer |<br>Java | Spring Boot | Microservices | Bu
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=joelpradeep-ab&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=joelpradeep-ab&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/joelpradeep-ab) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/joelpradeep-ab) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/joelpradeep-ab) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/joelpradeep-ab) 
